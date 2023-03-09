@@ -1,2 +1,2 @@
 #!/bin/bash
-Ls -an
+ls -nal
